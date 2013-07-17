@@ -1,0 +1,10 @@
+name: Project Name
+title: Baked with Awestruct
+org: Organization
+base_url: ''
+
+profiles:
+  production:
+    deploy:
+      type: s3
+      bucket: s3://beeptoot.com/
